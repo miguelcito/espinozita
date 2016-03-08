@@ -1,0 +1,13 @@
+{
+  "name": "espinozita",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
